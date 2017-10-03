@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1389996979 source:c:\users\sofiane\desktop\projetx_mas\projet-xmas\main.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<SDL_ttf.h>
+
+1428389809 source:d:\projets perso\final fantasy project\projet-xmas\main.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<SDL_ttf.h>
+
